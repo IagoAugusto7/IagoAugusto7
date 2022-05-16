@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @IagoAugusto7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, me chamo @IagoAugusto7
+- 👀 Estou interessado atualmente em programação
+- 🌱 Estou estudando com a @beacademy e @PayLivre, para me tornar um desenvolvedor WEB
+- 💞️ Pretendo cursar a faculdade de Desenvolvimento WEB na Estácio 
+- 📫 Para entrar em contato pode ser utilizado tais fontes de comunicação :
+- Email: @augustosaxx35@gmail.com ;
+- Telefone: +55 (71) 99120-2991
+- Redes socias :
+- Instagram : @Iagu_77
+- Linkedin : Iago Augusto
 
 <!---
 IagoAugusto7/IagoAugusto7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
