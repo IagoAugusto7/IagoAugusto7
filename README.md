@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo @IagoAugusto7
-- 👀 Estou interessado atualmente em programação
+- 👀 Estou interessado atualmente em programação. HTML>CSS>JAVASCRIPT>PHP
 - 🌱 Estou estudando com a @beacademy e @PayLivre, para me tornar um desenvolvedor WEB
 - 💞️ Pretendo cursar a faculdade de Desenvolvimento WEB na Estácio 
 - 📫 Para entrar em contato pode ser utilizado tais fontes de comunicação :
