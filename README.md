@@ -1,15 +1,41 @@
-- 👋 Olá, me chamo @IagoAugusto7
-- 👀 Estou interessado atualmente em programação. HTML>CSS>JAVASCRIPT>PHP
-- 🌱 Estou estudando com a @beacademy e @PayLivre, para me tornar um desenvolvedor WEB
-- 💞️ Pretendo cursar a faculdade de Desenvolvimento WEB na Estácio 
-- 📫 Para entrar em contato pode ser utilizado tais fontes de comunicação :
-- Email: @augustosaxx35@gmail.com ;
-- Telefone: +55 (71) 99120-2991
-- Redes socias :
-- Instagram : @Iagu_77
-- Linkedin : Iago Augusto
+# 👨‍💻 Iago Silva
 
-<!---
-IagoAugusto7/IagoAugusto7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá! Me chamo **Iago**, desenvolvedor em formação, apaixonado por tecnologia e criação de soluções web. Atualmente estou focado em me tornar um **Desenvolvedor Fullstack**, com base sólida tanto no front-end quanto no back-end.
+
+--- ---
+
+## 🚀 Tecnologias que estou aprendendo e utilizando:
+
+- ⚙️ PHP com Laravel
+- 🖼 Blade + HTML5 + CSS3 + Bootstrap
+- 💻 JavaScript
+- 🐘 MySQL (banco de dados relacional)
+- 🔧 Git e GitHub
+
+--- ---
+
+## 🎓 Formação e estudos
+
+- Estudante de **Análise e Desenvolvimento de Sistemas**
+- Aluno nas plataformas **BeAcademy** e **PayLivre**
+- Pretendo ingressar na faculdade de **Desenvolvimento Web na Estácio**
+
+--- ---
+
+## 📌 Projetos em destaque
+
+- [Portfólio com HTML/CSS](https://github.com/IagoAugusto7/beacademy-devstart-frontend-myportfolio)
+- [Repositório de configuração pessoal](https://github.com/IagoAugusto7/IagoAugusto7)
+
+--- ---
+
+## 📫 Contato
+
+- 📧 Email: [augustosaxo35@gmail.com](mailto:augustosaxo35@gmail.com)  
+- 📱 Telefone: +55 (71) 99120-2991  
+- 📷 Instagram: [@iago_77](https://www.instagram.com/iago_77)  
+- 💼 LinkedIn: [Iago Augusto](https://www.linkedin.com/in/iago-augusto)
+
+--- ---
+
+> *"Em constante evolução. Sempre aprendendo, sempre criando."*
