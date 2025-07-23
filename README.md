@@ -31,9 +31,9 @@ Olá! Me chamo **Iago**, desenvolvedor em formação, apaixonado por tecnologia 
 
 ## 📫 Contato
 
-- 📧 Email: [augustosaxo35@gmail.com](mailto:augustosaxo35@gmail.com)  
-- 📱 Telefone: +55 (71) 99120-2991  
-- 📷 Instagram: [@iago_77](https://www.instagram.com/iago_77)  
+- 📧 Email: [augustosaxx35@gmail.com](mailto:augustosaxx35@gmail.com)  
+- 📱 Telefone: +55 (71) 9 9120-2991  
+- 📷 Instagram: [@silva_iagu](https://www.instagram.com/silva_iagu)  
 - 💼 LinkedIn: [Iago Augusto](https://www.linkedin.com/in/iago-augusto)
 
 --- ---
